@@ -292,14 +292,19 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _docs
   - scope:
       path: ""
       type: docs
     values:
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true
       sidebar:
         nav: "docs"
 
 remote_theme : mmistakes/minimal-mistakes
 
-# Sidebar Menu
 
