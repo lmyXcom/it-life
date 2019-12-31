@@ -1,7 +1,7 @@
 ---
 title: "첫 깃헙 블로그 포스팅!"
 date: 2019-12-31 13:06:28 -0400
-categories: jekyll update etc
+categories: etc daily
 ---
 
 오 신기하다.. 아래 내용을 그저 복사-붙여넣기 했을 뿐인데 알아서 예쁘게 화면에서 보인다.
