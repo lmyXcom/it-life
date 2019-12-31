@@ -6,14 +6,14 @@ docs:
       - title: "머신러닝/딥러닝"
         url: /it/mldl
         
-  - title: 코딩 언어
+  - title: Language
     children:
       - title: "JAVA"
         url: /lang/java
       - title: "Python"
         url: /lang/python
         
-  - title: 신변잡기
+  - title: et cetra
     children:
       - title: "일상"
         url: /etc/daily
