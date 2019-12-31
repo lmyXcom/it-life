@@ -107,10 +107,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "개발자"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "**혼자서 커밋하는 블로그**"
+  location         : "우리 집 내 방"
   email            :
   links:
     - label: "Email"
@@ -294,3 +294,24 @@ defaults:
       related: true
 
 remote_theme : mmistakes/minimal-mistakes
+
+# Sidebar Menu
+docs:
+  - title: IT
+    children:
+      - title: "클라우드"
+        url: /it/cloud
+      - title: "머신러닝/딥러닝"
+        url: /it/mldl
+        
+  - title: 코딩 언어
+    children:
+      - title: "JAVA"
+        url: /lang/java
+      - title: "Python"
+        url: /lang/python
+        
+  - title: 신변잡기
+    children:
+      - title: "일상"
+        url: /etc/daily
