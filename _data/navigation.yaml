@@ -1,0 +1,19 @@
+docs:
+  - title: IT
+    children:
+      - title: "클라우드"
+        url: /it/cloud
+      - title: "머신러닝/딥러닝"
+        url: /it/mldl
+        
+  - title: 코딩 언어
+    children:
+      - title: "JAVA"
+        url: /lang/java
+      - title: "Python"
+        url: /lang/python
+        
+  - title: 신변잡기
+    children:
+      - title: "일상"
+        url: /etc/daily
