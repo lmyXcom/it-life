@@ -20,7 +20,7 @@ title                    : "IT를 책으로 배웠습니다."
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "개발자"
-description              : "조용히 커밋하는 "
+description              : "조용히 커밋하는 블로그"
 url                      : "https://lmyXcom.github.io"
 baseurl                  : ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
